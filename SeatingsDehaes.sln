@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeatingsDehaes", "SeatingsDehaes\SeatingsDehaes.csproj", "{D948564F-9118-4999-BBF2-8B7F7F92401D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeatingsFinder", "SeatingsFinder\SeatingsFinder.csproj", "{21DD0C98-8735-4FA4-A874-3E0C2272B7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D948564F-9118-4999-BBF2-8B7F7F92401D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D948564F-9118-4999-BBF2-8B7F7F92401D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D948564F-9118-4999-BBF2-8B7F7F92401D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D948564F-9118-4999-BBF2-8B7F7F92401D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DD0C98-8735-4FA4-A874-3E0C2272B7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DD0C98-8735-4FA4-A874-3E0C2272B7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DD0C98-8735-4FA4-A874-3E0C2272B7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DD0C98-8735-4FA4-A874-3E0C2272B7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {380DE306-3D10-44DF-93BA-A46CD46B44CA}
+	EndGlobalSection
+EndGlobal
